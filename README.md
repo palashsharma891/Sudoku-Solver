@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-Here I have implemented the algorithms to solve a sudoku puzzle using backtracking.
+Here I have implemented a sudoku puzzle solver using a backtracking algorithm.
